@@ -10,3 +10,4 @@
 
 
 ### Image 
+ the final image is in src/public/uploads/output.png
