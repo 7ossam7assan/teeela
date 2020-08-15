@@ -11,3 +11,7 @@
 
 ### Image 
  the final image is in src/public/uploads/output.png
+ 
+ ### installation
+ - run npm i 
+ - set your .env variables 
