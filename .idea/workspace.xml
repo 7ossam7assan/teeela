@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="090926a5-7854-4daf-9eeb-208677aa1d3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g3b4jAhncq83L4E0RKPptIiH6z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="090926a5-7854-4daf-9eeb-208677aa1d3b" name="Default Changelist" comment="" />
+      <created>1597346034503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597346034503</updated>
+      <workItem from="1597346035572" duration="805000" />
+      <workItem from="1597351045448" duration="607000" />
+      <workItem from="1597352555133" duration="702000" />
+      <workItem from="1597353699706" duration="403000" />
+      <workItem from="1597354368841" duration="2825000" />
+      <workItem from="1597360712642" duration="307000" />
+      <workItem from="1597383422495" duration="343000" />
+      <workItem from="1597383922371" duration="6706000" />
+      <workItem from="1597396082420" duration="389000" />
+      <workItem from="1597403422805" duration="638000" />
+      <workItem from="1597412756985" duration="541000" />
+      <workItem from="1597413402840" duration="720000" />
+      <workItem from="1597414920429" duration="168000" />
+      <workItem from="1597416072501" duration="1516000" />
+      <workItem from="1597417771606" duration="4107000" />
+      <workItem from="1597421973654" duration="2040000" />
+      <workItem from="1597424268086" duration="5255000" />
+      <workItem from="1597440136857" duration="17712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="125" width="1099" height="543" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597423702129">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="167" y="125" width="1099" height="543" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1299.741@67.27.1299.741" timestamp="1597423702129" />
+    <state x="407" y="135" width="618" height="522" key="find.popup" timestamp="1597454173541">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="407" y="135" width="618" height="522" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1597454173540" />
+    <state x="441" y="277" width="540" height="238" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597386813478">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="441" y="277" width="540" height="238" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1299.741@67.27.1299.741" timestamp="1597386813478" />
+  </component>
+</project>
